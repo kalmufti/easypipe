@@ -1,4 +1,4 @@
-from src.utils import CV
+from easypipe.utils import CV
 
 
 class Video(CV):
