@@ -1,3 +1,5 @@
+### Project is still in early planning stage.
+
 # EasyPipe
 
 EasyPipe is a MediaPipe wrapper Python library, that makes it super simple to develop and build Machine Learning application fast.
