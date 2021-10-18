@@ -1,5 +1,5 @@
-from src.source import Video
-from src.hands import TrackHands
+from easypipe.source import Video
+from easypipe.hands import TrackHands
 
 
 def test_hand_tracking():

@@ -1,5 +1,5 @@
-from src.utils import CV
-from src.source import Video
+from easypipe.utils import CV
+from easypipe.source import Video
 
 
 def test_video_capture():

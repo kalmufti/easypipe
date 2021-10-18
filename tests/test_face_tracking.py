@@ -1,8 +1,8 @@
-from src.source import Video
-from src.face import TrackFace
+from easypipe.source import Video
+from easypipe.face import TrackFace
 
 
-def test_hand_tracking():
+def test_face_tracking():
     webcam = Video()
     face = TrackFace()
 
